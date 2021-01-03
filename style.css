@@ -4,7 +4,7 @@
 * style sheet for the hello.html
 */
 
-.top-banner{
+#top-banner{
     background-color: aliceblue;
-    font-size: medium;
+    font-size: large;
 }
